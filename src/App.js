@@ -164,3 +164,6 @@ function Square({color, rowIdx, colIdx, onSquareUpdate}) {
 }
 
 export default App;
+
+//this is not currently working
+print ()
